@@ -1,14 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <vehicles>
     <vehicle>
-        <vehicleID>001</vehicleID>
-        <make>Toyota</make>
-        <model>Camry</model>
-        <year>2020</year>
+        <vehicleID>1</vehicleID>
+        <make>Pagani</make>
+        <model>Huayra NC</model>
+        <year>2022</year>
+        <color>Blue</color>
+        <theftStatus>false</theftStatus>
     </vehicle>
     <vehicle>
-        <vehicleID>002</vehicleID>
-        <make>Honda</make>
-        <model>Civic</model>
+        <vehicleID>2</vehicleID>
+        <make>Ford</make>
+        <model>F-150</model>
+        <year>2018</year>
+        <color>Red</color>
+        <theftStatus>true</theftStatus>
+    </vehicle>
+    <vehicle>
+        <vehicleID>3</vehicleID>
+        <make>Toyota</make>
+        <model>Camry</model>
         <year>2019</year>
+        <color>White</color>
+        <theftStatus>false</theftStatus>
+    </vehicle>
+    <vehicle>
+        <vehicleID>4</vehicleID>
+        <make>Tesla</make>
+        <model>Model 3</model>
+        <year>2021</year>
+        <color>Black</color>
+        <theftStatus>false</theftStatus>
+    </vehicle>
+    <vehicle>
+        <vehicleID>5</vehicleID>
+        <make>Jeep</make>
+        <model>Cherokee</model>
+        <year>2017</year>
+        <color>Gray</color>
+        <theftStatus>true</theftStatus>
     </vehicle>
 </vehicles>
+
