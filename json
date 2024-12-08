@@ -1,43 +1,43 @@
-
 [
     {
         "vehicleID": 1,
-        "make": "Pagani",
+        "company": "Pagani",
         "model": "Huayra NC",
         "year": 2022,
         "color": "Blue",
-        "theftStatus": false
+        "status": "Active"
     },
     {
         "vehicleID": 2,
-        "make": "Ford",
+        "company": "Ford",
         "model": "F-150",
         "year": 2018,
         "color": "Red",
-        "theftStatus": true
+        "status": "Stolen"
     },
     {
         "vehicleID": 3,
-        "make": "Toyota",
+        "company": "Toyota",
         "model": "Camry",
         "year": 2019,
         "color": "White",
-        "theftStatus": false
+        "status": "Active"
     },
     {
         "vehicleID": 4,
-        "make": "Tesla",
+        "company": "Tesla",
         "model": "Model 3",
         "year": 2021,
         "color": "Black",
-        "theftStatus": false
+        "status": "Active"
     },
     {
         "vehicleID": 5,
-        "make": "Jeep",
+        "company": "Jeep",
         "model": "Cherokee",
         "year": 2017,
         "color": "Gray",
-        "theftStatus": true
+        "status": "Stolen"
     }
 ]
+
