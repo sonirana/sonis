@@ -1,43 +1,44 @@
-[
+{
+  "vehicles": [
     {
-        "vehicleID": 1,
-        "company": "Pagani",
-        "model": "Huayra NC",
-        "year": 2022,
-        "color": "Blue",
-        "status": "Active"
+      "vehicleID": 1,
+      "company": "Ferrari",
+      "model": "488 GTB",
+      "year": 2022,
+      "color": "Red",
+      "status": "Active"
     },
     {
-        "vehicleID": 2,
-        "company": "Ford",
-        "model": "F-150",
-        "year": 2018,
-        "color": "Red",
-        "status": "Stolen"
+      "vehicleID": 2,
+      "company": "Lamborghini",
+      "model": "Huracán EVO",
+      "year": 2020,
+      "color": "Yellow",
+      "status": "Stolen"
     },
     {
-        "vehicleID": 3,
-        "company": "Toyota",
-        "model": "Camry",
-        "year": 2019,
-        "color": "White",
-        "status": "Active"
+      "vehicleID": 3,
+      "company": "Porsche",
+      "model": "911 Turbo S",
+      "year": 2021,
+      "color": "Silver",
+      "status": "Active"
     },
     {
-        "vehicleID": 4,
-        "company": "Tesla",
-        "model": "Model 3",
-        "year": 2021,
-        "color": "Black",
-        "status": "Active"
+      "vehicleID": 4,
+      "company": "Aston Martin",
+      "model": "DBS Superleggera",
+      "year": 2021,
+      "color": "Black",
+      "status": "Active"
     },
     {
-        "vehicleID": 5,
-        "company": "Jeep",
-        "model": "Cherokee",
-        "year": 2017,
-        "color": "Gray",
-        "status": "Stolen"
+      "vehicleID": 5,
+      "company": "Maserati",
+      "model": "Levante",
+      "year": 2019,
+      "color": "Blue",
+      "status": "Stolen"
     }
-]
-
+  ]
+}
