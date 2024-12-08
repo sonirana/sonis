@@ -1,0 +1,14 @@
+[
+    {
+        "vehicleID": "001",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2020"
+    },
+    {
+        "vehicleID": "002",
+        "make": "Honda",
+        "model": "Civic",
+        "year": "2019"
+    }
+]
