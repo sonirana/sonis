@@ -1,44 +1,27 @@
-{
-  "Vehicles": [
+[
     {
-      "VehicleID": 1,
-      "Make": "Pagani",
-      "Model": "Huayra NC",
-      "Year": 2022,
-      "Color": "Blue",
-      "Status": "Not Stolen"
+        "vehicleID": "ON12345",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2020",
+        "color": "Red",
+        "status": "Active"
     },
     {
-      "VehicleID": 2,
-      "Make": "Ford",
-      "Model": "F-150",
-      "Year": 2018,
-      "Color": "Red",
-      "Status": "Stolen"
+        "vehicleID": "ON67890",
+        "make": "Honda",
+        "model": "Civic",
+        "year": "2018",
+        "color": "Blue",
+        "status": "Stolen"
     },
     {
-      "VehicleID": 3,
-      "Make": "Toyota",
-      "Model": "Camry",
-      "Year": 2019,
-      "Color": "White",
-      "Status": "Not Stolen"
-    },
-    {
-      "VehicleID": 4,
-      "Make": "Tesla",
-      "Model": "Model 3",
-      "Year": 2021,
-      "Color": "Black",
-      "Status": "Not Stolen"
-    },
-    {
-      "VehicleID": 5,
-      "Make": "Jeep",
-      "Model": "Cherokee",
-      "Year": 2017,
-      "Color": "Gray",
-      "Status": "Stolen"
+        "vehicleID": "ON11223",
+        "make": "Ford",
+        "model": "Escape",
+        "year": "2019",
+        "color": "White",
+        "status": "Recovered"
     }
-  ]
-}
+]
+
