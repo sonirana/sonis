@@ -1,0 +1,14 @@
+<vehicles>
+    <vehicle>
+        <vehicleID>001</vehicleID>
+        <make>Toyota</make>
+        <model>Camry</model>
+        <year>2020</year>
+    </vehicle>
+    <vehicle>
+        <vehicleID>002</vehicleID>
+        <make>Honda</make>
+        <model>Civic</model>
+        <year>2019</year>
+    </vehicle>
+</vehicles>
