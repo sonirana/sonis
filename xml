@@ -1,43 +1,44 @@
 <vehicles>
     <vehicle>
         <vehicleID>1</vehicleID>
-        <make>Pagani</make>
+        <company>Pagani</company>
         <model>Huayra NC</model>
         <year>2022</year>
         <color>Blue</color>
-        <theftStatus>false</theftStatus>
+        <status>Active</status>
     </vehicle>
     <vehicle>
         <vehicleID>2</vehicleID>
-        <make>Ford</make>
+        <company>Ford</company>
         <model>F-150</model>
         <year>2018</year>
         <color>Red</color>
-        <theftStatus>true</theftStatus>
+        <status>Stolen</status>
     </vehicle>
     <vehicle>
         <vehicleID>3</vehicleID>
-        <make>Toyota</make>
+        <company>Toyota</company>
         <model>Camry</model>
         <year>2019</year>
         <color>White</color>
-        <theftStatus>false</theftStatus>
+        <status>Active</status>
     </vehicle>
     <vehicle>
         <vehicleID>4</vehicleID>
-        <make>Tesla</make>
+        <company>Tesla</company>
         <model>Model 3</model>
         <year>2021</year>
         <color>Black</color>
-        <theftStatus>false</theftStatus>
+        <status>Active</status>
     </vehicle>
     <vehicle>
         <vehicleID>5</vehicleID>
-        <make>Jeep</make>
+        <company>Jeep</company>
         <model>Cherokee</model>
         <year>2017</year>
         <color>Gray</color>
-        <theftStatus>true</theftStatus>
+        <status>Stolen</status>
     </vehicle>
 </vehicles>
+
 
