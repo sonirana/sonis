@@ -2,42 +2,42 @@
   "vehicles": [
     {
       "vehicleID": 1,
-      "company": "Ferrari",
-      "model": "488 GTB",
-      "year": 2022,
-      "color": "Red",
-      "status": "Active"
-    },
-    {
-      "vehicleID": 2,
-      "company": "Lamborghini",
-      "model": "Huracán EVO",
-      "year": 2020,
-      "color": "Yellow",
-      "status": "Stolen"
-    },
-    {
-      "vehicleID": 3,
-      "company": "Porsche",
-      "model": "911 Turbo S",
-      "year": 2021,
-      "color": "Silver",
-      "status": "Active"
-    },
-    {
-      "vehicleID": 4,
-      "company": "Aston Martin",
-      "model": "DBS Superleggera",
-      "year": 2021,
+      "company": "BMW",
+      "model": "M5",
+      "year": 2023,
       "color": "Black",
       "status": "Active"
     },
     {
-      "vehicleID": 5,
-      "company": "Maserati",
-      "model": "Levante",
-      "year": 2019,
+      "vehicleID": 2,
+      "company": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2021,
+      "color": "Silver",
+      "status": "Stolen"
+    },
+    {
+      "vehicleID": 3,
+      "company": "Audi",
+      "model": "A7",
+      "year": 2022,
+      "color": "White",
+      "status": "Recovered"
+    },
+    {
+      "vehicleID": 4,
+      "company": "Tesla",
+      "model": "Model X",
+      "year": 2022,
       "color": "Blue",
+      "status": "Active"
+    },
+    {
+      "vehicleID": 5,
+      "company": "Ford",
+      "model": "Mustang",
+      "year": 2020,
+      "color": "Red",
       "status": "Stolen"
     }
   ]
