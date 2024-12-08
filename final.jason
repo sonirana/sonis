@@ -1,14 +1,44 @@
-[
+{
+  "Vehicles": [
     {
-        "vehicleID": "001",
-        "make": "Toyota",
-        "model": "Camry",
-        "year": "2020"
+      "VehicleID": 1,
+      "Make": "Pagani",
+      "Model": "Huayra NC",
+      "Year": 2022,
+      "Color": "Blue",
+      "Status": "Not Stolen"
     },
     {
-        "vehicleID": "002",
-        "make": "Honda",
-        "model": "Civic",
-        "year": "2019"
+      "VehicleID": 2,
+      "Make": "Ford",
+      "Model": "F-150",
+      "Year": 2018,
+      "Color": "Red",
+      "Status": "Stolen"
+    },
+    {
+      "VehicleID": 3,
+      "Make": "Toyota",
+      "Model": "Camry",
+      "Year": 2019,
+      "Color": "White",
+      "Status": "Not Stolen"
+    },
+    {
+      "VehicleID": 4,
+      "Make": "Tesla",
+      "Model": "Model 3",
+      "Year": 2021,
+      "Color": "Black",
+      "Status": "Not Stolen"
+    },
+    {
+      "VehicleID": 5,
+      "Make": "Jeep",
+      "Model": "Cherokee",
+      "Year": 2017,
+      "Color": "Gray",
+      "Status": "Stolen"
     }
-]
+  ]
+}
